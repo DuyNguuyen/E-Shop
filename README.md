@@ -13,6 +13,8 @@ E-Shop eCommerce Website created for training with PHP, MVC, MySQL
 
 - PHP 8
 
+- MySQL
+
 
 
 ## Features
