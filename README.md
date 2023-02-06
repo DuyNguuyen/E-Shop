@@ -1,8 +1,7 @@
 
 # E-Shop
 
-E-Shop eCommerce Website for training with PHP, MVC, MySQL
-
+E-Shop eCommerce Website created for training with PHP, MVC, MySQL
 
 ## Technologies
 
